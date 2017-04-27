@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/af159d5c37fc87746e205779b9b80e7533f07a69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_f7c29d0f6c7661a484ccda9e87c6be59ce9d7e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/5e2e974253717575a91277a9d3ab106f27dd5484/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_ad364519d71151bf7447b2355fbf553cb43096a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/ca0eaaabed9b9d36757997be0938a96c1a982118/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_f9e8ee6e64c42c5afd49720d06a763809b446b3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8d93ebb89db542f85a36d2c8d14bbed23339f48c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/55003519a499ec0bfe94e0c16dd4e0c954b4ac31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_36d4d45264893a591f3cc461a039bc14d91cd1dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/8adc15637b37c94aab05e8dc611f972d8a5abb06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_0b64c1f035f493e41148da2cdb405d32d23646b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/0e4f9f8a19b61c2b0aaf9531668654738c030079/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_4734172f796b0657b9b8e06b3ad23eb41080b996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/9337ddce4ed4e7bcbde8698d20e309b7ca4c61e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_e313a0a1c188526c6fafd135591ec3ea7149ab05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/a6d293701f8cbdf86afebfd6c183e5ab32e21d6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_b52eb5cb5c80ac6ff981188597bf60f3e2d9017f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/fbab098845ce091c3824e9ceae91403d83a503b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_578276c35df4fee9e416cc21195da72ef08a3a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/b7624c7b52d804ce520402b005eff37b7673d571/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_c4efd52a989606fd96e70136d2ae065662b0d755.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d718bd46095c9b2c76f21f030e46086a3763c49/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_5e4e84b14d03fe494e8b04f9bd59d9321a449839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/e7b1041d6dbc5f380fd15c1882055d29d57a4d08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_979c577b2baf769bb9b635e55bab3a68236219bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/3a3bef87d6f83f6e44457d8aab85523c1dcc9212/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_b5fff1d6372a09c2fbf2cf00cffdcbb7b02d6724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/brad/.android/build-cache/901be4f7cb7d64b520d655590ba3396dce914427/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/pre-dexed/debug/classes_5fdf2ead5084eb0bf80b4daf5836483370e8275a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="698ebb3c92c8a9c4a654ce853b39d173e66782af">
+        <dex dex="/home/brad/AndroidStudioProjects/myapplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6980f23d027799e955e0599f72756daa81764ea5/classes.dex" />
+    </item>
+
+</items>
